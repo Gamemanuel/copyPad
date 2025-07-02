@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D11, D12, D13, D14, D15, D16, D17, D18",BAcklight,9,SK6812MINI,
+"D10, D2, D3, D4, D5, D6, D7, D8, D9",D_T-1_P5.08mm_Horizontal,9,D,
+J1,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_MountingPin,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",SW_Cherry_MX_1.00u_PCB,9,SW_Push_45deg,
+SW11,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U1,XIAO-RP2040-SMD,1,XIAO-RP2040-DIP,
